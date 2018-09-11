@@ -84,8 +84,14 @@ body{
 }
 
 
-
-
+.nombre-categoria{
+	font-size: 16px;
+	font-weight: 600;
+}
+.nombre-producto{
+	font-size: 20px;
+	font-weight: 600;
+}
 
 
 
